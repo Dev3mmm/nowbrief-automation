@@ -1,9 +1,122 @@
 [
- {"when_published": 251, "add_to": [
-  {"post": 110, "marker": "hegseth-impeachment-house-vote-refer", "html": "<strong>Related, Nov. 12, 2026:</strong> The House voted 211 to 204 on Nov. 10 to refer a resolution impeaching Defense Secretary Pete Hegseth. See <a href=\"https://nowbrief.news/news/politics/hegseth-impeachment-house-vote-refer/\">the roll call explained</a>."},
-  {"post": 112, "marker": "hegseth-impeachment-house-vote-refer", "html": "<strong>Related, Nov. 12, 2026:</strong> On Nov. 10 the House voted 211 to 204 to refer the Hegseth impeachment resolution. See <a href=\"https://nowbrief.news/news/politics/hegseth-impeachment-house-vote-refer/\">our report</a>."}
- ]},
- {"when_published": 253, "add_to": [
-  {"post": 235, "marker": "us-soldier-arrested-gloucester-russia", "html": "<strong>Related, Nov. 12, 2026:</strong> A separate case involving Russia: British police arrested a US Army member near Gloucester on Nov. 10. See <a href=\"https://nowbrief.news/news/world/us-soldier-arrested-gloucester-russia/\">our report</a>."}
- ]}
+ {
+  "when_published": 251,
+  "add_to": [
+   {
+    "post": 110,
+    "marker": "hegseth-impeachment-house-vote-refer",
+    "html": "<strong>Related, Nov. 12, 2026:</strong> The House voted 211 to 204 on Nov. 10 to refer a resolution impeaching Defense Secretary Pete Hegseth. See <a href=\"https://nowbrief.news/news/politics/hegseth-impeachment-house-vote-refer/\">the roll call explained</a>."
+   },
+   {
+    "post": 112,
+    "marker": "hegseth-impeachment-house-vote-refer",
+    "html": "<strong>Related, Nov. 12, 2026:</strong> On Nov. 10 the House voted 211 to 204 to refer the Hegseth impeachment resolution. See <a href=\"https://nowbrief.news/news/politics/hegseth-impeachment-house-vote-refer/\">our report</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 253,
+  "add_to": [
+   {
+    "post": 235,
+    "marker": "us-soldier-arrested-gloucester-russia",
+    "html": "<strong>Related, Nov. 12, 2026:</strong> A separate case involving Russia: British police arrested a US Army member near Gloucester on Nov. 10. See <a href=\"https://nowbrief.news/news/world/us-soldier-arrested-gloucester-russia/\">our report</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 305,
+  "add_to": [
+   {
+    "post": 235,
+    "marker": "spain-general-strike-housing-wages",
+    "html": "<strong>Related, Nov. 13, 2026:</strong> Elsewhere in Europe, Spain held its first general strike in 14 years on Nov. 11. See <a href=\"https://nowbrief.news/news/world/spain-general-strike-housing-wages/\">our report</a>."
+   },
+   {
+    "post": 237,
+    "marker": "spain-general-strike-housing-wages",
+    "html": "<strong>Related, Nov. 13, 2026:</strong> Spain held a general strike over housing costs on Nov. 11. See <a href=\"https://nowbrief.news/news/world/spain-general-strike-housing-wages/\">what happened</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 307,
+  "add_to": [
+   {
+    "post": 209,
+    "marker": "binance-proof-of-reserves-hack-replaced",
+    "html": "<strong>Update, Nov. 13, 2026:</strong> Binance says it has replaced the lost customer assets and published a new snapshot. See <a href=\"https://nowbrief.news/crypto/binance-proof-of-reserves-hack-replaced/\">the Binance proof of reserves explained</a>."
+   },
+   {
+    "post": 50,
+    "marker": "binance-proof-of-reserves-hack-replaced",
+    "html": "<strong>Related, Nov. 13, 2026:</strong> Binance published a new proof of reserves on Nov. 12. See <a href=\"https://nowbrief.news/crypto/binance-proof-of-reserves-hack-replaced/\">the numbers</a>."
+   },
+   {
+    "post": 278,
+    "marker": "binance-proof-of-reserves-hack-replaced",
+    "html": "<strong>Related, Nov. 13, 2026:</strong> On the exchange side, Binance published a new reserve snapshot. See <a href=\"https://nowbrief.news/crypto/binance-proof-of-reserves-hack-replaced/\">our report</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 309,
+  "add_to": [
+   {
+    "post": 285,
+    "marker": "spacex-data-center-brownsville-texas",
+    "html": "<strong>Related, Nov. 13, 2026:</strong> Another AI build-out story: SpaceX plans a $24 billion data center near Brownsville, Texas. See <a href=\"https://nowbrief.news/news/tech/spacex-data-center-brownsville-texas/\">our report</a>."
+   },
+   {
+    "post": 199,
+    "marker": "spacex-data-center-brownsville-texas",
+    "html": "<strong>Related, Nov. 13, 2026:</strong> On AI infrastructure, SpaceX plans a $24 billion data center in Texas. See <a href=\"https://nowbrief.news/news/tech/spacex-data-center-brownsville-texas/\">the details</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 311,
+  "add_to": [
+   {
+    "post": 278,
+    "marker": "dtcc-solana-tokenized-securities-2027",
+    "html": "<strong>Related, Nov. 13, 2026:</strong> DTCC plans to bring tokenized securities to Solana in 2027. See <a href=\"https://nowbrief.news/crypto/dtcc-solana-tokenized-securities-2027/\">our report</a>."
+   },
+   {
+    "post": 282,
+    "marker": "dtcc-solana-tokenized-securities-2027",
+    "html": "<strong>Related, Nov. 13, 2026:</strong> Wall Street plumbing is moving on-chain too. See <a href=\"https://nowbrief.news/crypto/dtcc-solana-tokenized-securities-2027/\">the DTCC Solana plan</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 313,
+  "add_to": [
+   {
+    "post": 251,
+    "marker": "trump-arch-lawsuit-kennedy-family",
+    "html": "<strong>Related, Nov. 13, 2026:</strong> In another fight over the administration, Kennedy relatives joined the Trump arch lawsuit. See <a href=\"https://nowbrief.news/news/politics/trump-arch-lawsuit-kennedy-family/\">our report</a>."
+   },
+   {
+    "post": 35,
+    "marker": "trump-arch-lawsuit-kennedy-family",
+    "html": "<strong>Related, Nov. 13, 2026:</strong> Kennedy relatives have joined a suit against the Trump arch. See <a href=\"https://nowbrief.news/news/politics/trump-arch-lawsuit-kennedy-family/\">what they argue</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 315,
+  "add_to": [
+   {
+    "post": 209,
+    "marker": "visa-western-union-usdpt-settlement",
+    "html": "<strong>Related, Nov. 13, 2026:</strong> Stablecoins moved into card settlement as Visa added Western Union USDPT. See <a href=\"https://nowbrief.news/crypto/visa-western-union-usdpt-settlement/\">our report</a>."
+   },
+   {
+    "post": 276,
+    "marker": "visa-western-union-usdpt-settlement",
+    "html": "<strong>Related, Nov. 13, 2026:</strong> Visa partners can now settle in Western Union USDPT. See <a href=\"https://nowbrief.news/crypto/visa-western-union-usdpt-settlement/\">the announcement explained</a>."
+   }
+  ]
+ }
 ]
