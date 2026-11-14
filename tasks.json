@@ -118,5 +118,60 @@
     "html": "<strong>Related, Nov. 13, 2026:</strong> Visa partners can now settle in Western Union USDPT. See <a href=\"https://nowbrief.news/crypto/visa-western-union-usdpt-settlement/\">the announcement explained</a>."
    }
   ]
+ },
+ {
+  "when_published": 350,
+  "add_to": [
+   {
+    "post": 328,
+    "marker": "faa-ground-stop-old-telecom-gear",
+    "html": "<strong>Related, Nov. 14, 2026:</strong> Another outage story from Nov. 13: Transportation Secretary Sean Duffy explained the nationwide <a href=\"https://nowbrief.news/news/politics/faa-ground-stop-old-telecom-gear/\">FAA ground stop</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 352,
+  "add_to": [
+   {
+    "post": 215,
+    "marker": "fed-financial-stability-report-ai",
+    "html": "<strong>Related, Nov. 14, 2026:</strong> The Fed's own <a href=\"https://nowbrief.news/finance/economy/fed-financial-stability-report-ai/\">financial stability report</a> now ranks AI first among market contacts' risks."
+   },
+   {
+    "post": 213,
+    "marker": "fed-financial-stability-report-ai",
+    "html": "<strong>Related, Nov. 14, 2026:</strong> See what the Fed's <a href=\"https://nowbrief.news/finance/economy/fed-financial-stability-report-ai/\">November financial stability report</a> says about AI and debt."
+   }
+  ]
+ },
+ {
+  "when_published": 354,
+  "add_to": [
+   {
+    "post": 199,
+    "marker": "freeze-ai-development-lawsuit-nonprofits",
+    "html": "<strong>Related, Nov. 14, 2026:</strong> Anthropic is a named defendant in a new suit by four nonprofits that asks a court to <a href=\"https://nowbrief.news/news/tech/freeze-ai-development-lawsuit-nonprofits/\">freeze AI development</a>."
+   },
+   {
+    "post": 326,
+    "marker": "freeze-ai-development-lawsuit-nonprofits",
+    "html": "<strong>Related, Nov. 14, 2026:</strong> Four nonprofits have sued Anthropic and four other firms to <a href=\"https://nowbrief.news/news/tech/freeze-ai-development-lawsuit-nonprofits/\">freeze AI development</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 356,
+  "add_to": [
+   {
+    "post": 315,
+    "marker": "chatgpt-wallet-pro-cards-face-id-rules",
+    "html": "<strong>Related, Nov. 14, 2026:</strong> OpenAI's <a href=\"https://nowbrief.news/news/tech/chatgpt-wallet-pro-cards-face-id-rules/\">ChatGPT Wallet</a> lets agents pay with Visa, Mastercard and other cards after Face ID approval."
+   },
+   {
+    "post": 326,
+    "marker": "chatgpt-wallet-pro-cards-face-id-rules",
+    "html": "<strong>Related, Nov. 14, 2026:</strong> How <a href=\"https://nowbrief.news/news/tech/chatgpt-wallet-pro-cards-face-id-rules/\">ChatGPT Wallet</a> works, who qualifies and which cards it accepts."
+   }
+  ]
  }
 ]
