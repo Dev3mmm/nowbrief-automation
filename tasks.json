@@ -233,5 +233,55 @@
     "html": "<strong>Related, Nov. 15, 2026:</strong> <a href=\"https://nowbrief.news/news/world/hormuz-tankers-mines-irgc-claim/\">Hormuz tankers mines claim:</a> what the IRGC says, what UKMTO reported and what is unconfirmed."
    }
   ]
+ },
+ {
+  "when_published": 389,
+  "add_to": [
+   {
+    "post": 326,
+    "marker": "anthropic-ipo-date-nov-19",
+    "html": "<strong>Related, Nov. 16, 2026:</strong> Anthropic plans to price its IPO on Nov. 18 and start trading on Nasdaq as ANT on Nov. 19. See <a href=\"https://nowbrief.news/news/tech/anthropic-ipo-date-nov-19/\">the Anthropic IPO date and range</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 391,
+  "add_to": [
+   {
+    "post": 235,
+    "marker": "zelensky-nato-membership-donbas",
+    "html": "<strong>Related, Nov. 16, 2026:</strong> Zelensky says US negotiators asked whether Ukraine would leave Donbas for NATO membership. See <a href=\"https://nowbrief.news/news/world/zelensky-nato-membership-donbas/\">what Zelensky said</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 393,
+  "add_to": [
+   {
+    "post": 309,
+    "marker": "vulcan-rocket-failure-amazon-leo",
+    "html": "<strong>Related, Nov. 16, 2026:</strong> ULA's Vulcan rocket failed on Nov. 15 and 40 Amazon Leo satellites were lost. See <a href=\"https://nowbrief.news/news/science/vulcan-rocket-failure-amazon-leo/\">our report on the Vulcan failure</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 395,
+  "add_to": [
+   {
+    "post": 374,
+    "marker": "iran-bahrain-attack-helicopter-base",
+    "html": "<strong>Related, Nov. 16, 2026:</strong> Iran's Revolutionary Guard claims six drones hit a helicopter base in Bahrain on Nov. 15. See <a href=\"https://nowbrief.news/news/world/iran-bahrain-attack-helicopter-base/\">the Bahrain claims and responses</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 397,
+  "add_to": [
+   {
+    "post": 305,
+    "marker": "canary-islands-migrants-record-day",
+    "html": "<strong>Related, Nov. 16, 2026:</strong> Spain's rescue service picked up 1,488 people off the Canary Islands in one day. See <a href=\"https://nowbrief.news/news/world/canary-islands-migrants-record-day/\">our report</a>."
+   }
+  ]
  }
 ]
