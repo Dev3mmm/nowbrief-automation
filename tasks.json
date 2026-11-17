@@ -283,5 +283,55 @@
     "html": "<strong>Related, Nov. 16, 2026:</strong> Spain's rescue service picked up 1,488 people off the Canary Islands in one day. See <a href=\"https://nowbrief.news/news/world/canary-islands-migrants-record-day/\">our report</a>."
    }
   ]
+ },
+ {
+  "when_published": 438,
+  "add_to": [
+   {
+    "post": 370,
+    "marker": "alaska-governor-race-winner",
+    "html": "<strong>Related, Nov. 17, 2026:</strong> Democrat Jonathan Kreiss-Tomkins won Alaska's governor race with about 51% of first-choice votes. See <a href=\"https://nowbrief.news/news/politics/elections/alaska-governor-race-winner/\">our report</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 442,
+  "add_to": [
+   {
+    "post": 370,
+    "marker": "supreme-court-asylum-case-trump-ban",
+    "html": "<strong>Related, Nov. 17, 2026:</strong> The Supreme Court will hear Trump's border asylum ban, with a ruling expected by early July. See <a href=\"https://nowbrief.news/news/politics/supreme-court-asylum-case-trump-ban/\">our report</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 446,
+  "add_to": [
+   {
+    "post": 368,
+    "marker": "trump-kim-jong-un-meeting-china",
+    "html": "<strong>Related, Nov. 17, 2026:</strong> Trump says he may meet Kim Jong-un in China, but it depends on Xi Jinping. See <a href=\"https://nowbrief.news/news/politics/trump-kim-jong-un-meeting-china/\">our report</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 440,
+  "add_to": [
+   {
+    "post": 391,
+    "marker": "ukraine-drone-attack-record-1336",
+    "html": "<strong>Related, Nov. 17, 2026:</strong> Russia says it downed a record 1,336 Ukrainian drones overnight on Nov. 16. See <a href=\"https://nowbrief.news/news/world/ukraine-drone-attack-record-1336/\">our report</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 444,
+  "add_to": [
+   {
+    "post": 372,
+    "marker": "iraq-telegram-ban-30-days",
+    "html": "<strong>Related, Nov. 17, 2026:</strong> Iraq blocked Telegram on Nov. 16 and gave the company 30 days to comply. See <a href=\"https://nowbrief.news/news/tech/iraq-telegram-ban-30-days/\">our report</a>."
+   }
+  ]
  }
 ]
