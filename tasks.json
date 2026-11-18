@@ -333,5 +333,65 @@
     "html": "<strong>Related, Nov. 17, 2026:</strong> Iraq blocked Telegram on Nov. 16 and gave the company 30 days to comply. See <a href=\"https://nowbrief.news/news/tech/iraq-telegram-ban-30-days/\">our report</a>."
    }
   ]
+ },
+ {
+  "when_published": 474,
+  "add_to": [
+   {
+    "post": 315,
+    "marker": "zelle-stablecoin-solana-zelleusd",
+    "html": "Anchorage Digital Bank, named in this story, also issues Zelle's dollar token: <a href=\"https://nowbrief.news/crypto/altcoins/zelle-stablecoin-solana-zelleusd/\">Zelle plans to launch ZelleUSD on Solana for payments sent abroad</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 477,
+  "add_to": [
+   {
+    "post": 276,
+    "marker": "russia-crypto-law-retail-investors",
+    "html": "<em>Another country, another rulebook: Russia let ordinary investors buy Bitcoin, Ether and USDT from Nov. 17, with a 300,000-ruble yearly cap. <a href=\"https://nowbrief.news/crypto/regulation/russia-crypto-law-retail-investors/\">Read the limits</a>.</em>"
+   }
+  ]
+ },
+ {
+  "when_published": 484,
+  "add_to": [
+   {
+    "post": 395,
+    "marker": "qeshm-island-attack-us-strike-iran-bahrain",
+    "html": "<strong>Update, Nov. 18, 2026:</strong> the next round of claims, and a US strike on Qeshm Island, are in <a href=\"https://nowbrief.news/news/world/qeshm-island-attack-us-strike-iran-bahrain/\">this timeline</a>."
+   },
+   {
+    "post": 374,
+    "marker": "qeshm-island-attack-us-strike-iran-bahrain",
+    "html": "Since this claim, Iran and the US have traded further strikes. For the latest, see <a href=\"https://nowbrief.news/news/world/qeshm-island-attack-us-strike-iran-bahrain/\">our Nov. 17 to 18 report</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 487,
+  "add_to": [
+   {
+    "post": 370,
+    "marker": "jeffries-speakership-house-democrats-vote",
+    "html": "See also: <a href=\"https://nowbrief.news/news/politics/jeffries-speakership-house-democrats-vote/\">how House Democrats vote on Jeffries's speaker nomination</a> on Nov. 18."
+   },
+   {
+    "post": 110,
+    "marker": "jeffries-speakership-house-democrats-vote",
+    "html": "The first formal step toward a Democratic speaker was set for Nov. 18, as <a href=\"https://nowbrief.news/news/politics/jeffries-speakership-house-democrats-vote/\">we explain here</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 499,
+  "add_to": [
+   {
+    "post": 370,
+    "marker": "medicaid-work-requirements-delay",
+    "html": "<em>Health care in practice: CMS has given states an optional six-month delay on Medicaid work rules. <a href=\"https://nowbrief.news/news/politics/medicaid-work-requirements-delay/\">What changes and when</a>.</em>"
+   }
+  ]
  }
 ]
