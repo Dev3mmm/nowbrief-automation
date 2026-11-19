@@ -393,5 +393,50 @@
     "html": "<em>Health care in practice: CMS has given states an optional six-month delay on Medicaid work rules. <a href=\"https://nowbrief.news/news/politics/medicaid-work-requirements-delay/\">What changes and when</a>.</em>"
    }
   ]
+ },
+ {
+  "when_published": 569,
+  "add_to": [
+   {
+    "post": 460,
+    "marker": "bitcoin-etf-outflows-three-month-low",
+    "html": "Fund flows: <a href=\"https://nowbrief.news/crypto/bitcoin/bitcoin-etf-outflows-three-month-low/\">US spot Bitcoin ETFs lost $306.4 million on Nov. 18</a>, taking assets to a three-month low."
+   },
+   {
+    "post": 278,
+    "marker": "bitcoin-etf-outflows-three-month-low",
+    "html": "<em>Update: <a href=\"https://nowbrief.news/crypto/bitcoin/bitcoin-etf-outflows-three-month-low/\">Bitcoin ETF assets have since fallen to $77.7 billion</a>, a three-month low.</em>"
+   }
+  ]
+ },
+ {
+  "when_published": 572,
+  "add_to": [
+   {
+    "post": 209,
+    "marker": "sky-stablecoin-north-korea-psm",
+    "html": "Related reading on stolen funds and stablecoins: <a href=\"https://nowbrief.news/crypto/defi/sky-stablecoin-north-korea-psm/\">how North Korean hackers used the Sky stablecoin system</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 575,
+  "add_to": [
+   {
+    "post": 328,
+    "marker": "waymo-freeway-ban-california-dmv",
+    "html": "More tech news: <a href=\"https://nowbrief.news/news/tech/waymo-freeway-ban-california-dmv/\">Waymo has pulled driverless taxis from all US freeways</a> after a California DMV order."
+   }
+  ]
+ },
+ {
+  "when_published": 578,
+  "add_to": [
+   {
+    "post": 409,
+    "marker": "van-gogh-record-price-sothebys",
+    "html": "<em>Elsewhere in culture: <a href=\"https://nowbrief.news/news/entertainment/van-gogh-record-price-sothebys/\">a Van Gogh painting sold for a record $190.4 million</a>.</em>"
+   }
+  ]
  }
 ]
