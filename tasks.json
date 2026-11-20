@@ -438,5 +438,45 @@
     "html": "<em>Elsewhere in culture: <a href=\"https://nowbrief.news/news/entertainment/van-gogh-record-price-sothebys/\">a Van Gogh painting sold for a record $190.4 million</a>.</em>"
    }
   ]
+ },
+ {
+  "when_published": 619,
+  "add_to": [
+   {
+    "post": 572,
+    "marker": "hyperliquid-hong-kong-sfc-alert",
+    "html": "Also this week: <a href=\"https://nowbrief.news/crypto/regulation/hyperliquid-hong-kong-sfc-alert/\">Hong Kong's regulator put Hyperliquid on its suspicious platform list</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 622,
+  "add_to": [
+   {
+    "post": 474,
+    "marker": "moonpay-national-trust-bank-occ",
+    "html": "<strong>Stablecoin race:</strong> <a href=\"https://nowbrief.news/crypto/moonpay-national-trust-bank-occ/\">MoonPay has applied for a US national trust bank charter</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 625,
+  "add_to": [
+   {
+    "post": 110,
+    "marker": "lead-azide-iowa-detonation-delay",
+    "html": "<em>In Iowa now: <a href=\"https://nowbrief.news/news/lead-azide-iowa-detonation-delay/\">the Army delayed a lead azide detonation near Middletown</a>.</em>"
+   }
+  ]
+ },
+ {
+  "when_published": 628,
+  "add_to": [
+   {
+    "post": 520,
+    "marker": "alaska-senate-lawsuit-doj-moot",
+    "html": "Update: <a href=\"https://nowbrief.news/news/politics/alaska-senate-lawsuit-doj-moot/\">DOJ told a court its Alaska Senate lawsuit is now moot</a>."
+   }
+  ]
  }
 ]
