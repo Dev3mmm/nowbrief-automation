@@ -478,5 +478,60 @@
     "html": "Update: <a href=\"https://nowbrief.news/news/politics/alaska-senate-lawsuit-doj-moot/\">DOJ told a court its Alaska Senate lawsuit is now moot</a>."
    }
   ]
+ },
+ {
+  "when_published": 662,
+  "add_to": [
+   {
+    "post": 477,
+    "marker": "russia-crypto-exchange-trading",
+    "html": "Update: <a href=\"https://nowbrief.news/crypto/regulation/russia-crypto-exchange-trading/\">Russian exchanges may start crypto trading from Nov. 22 under Bank of Russia rules</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 665,
+  "add_to": [
+   {
+    "post": 622,
+    "marker": "polygon-banking-license-plan",
+    "html": "Update: <a href=\"https://nowbrief.news/crypto/altcoins/polygon-banking-license-plan/\">Polygon says it will buy payment licenses and weighs a US banking license</a>."
+   },
+   {
+    "post": 474,
+    "marker": "polygon-banking-license-plan",
+    "html": "Related: <a href=\"https://nowbrief.news/crypto/altcoins/polygon-banking-license-plan/\">Polygon plans $50 million to $100 million license deals</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 668,
+  "add_to": [
+   {
+    "post": 575,
+    "marker": "uber-data-breach-fireworks-ai",
+    "html": "Update: <a href=\"https://nowbrief.news/news/tech/uber-data-breach-fireworks-ai/\">Uber notifies 149,346 people of a data breach at vendor Fireworks AI</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 671,
+  "add_to": [
+   {
+    "post": 526,
+    "marker": "peru-earthquake-junin-magnitude-6-7",
+    "html": "Update: <a href=\"https://nowbrief.news/news/world/peru-earthquake-junin-magnitude-6-7/\">A magnitude 6.7 earthquake hit Peru's Junin Andes with no damage reported</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 674,
+  "add_to": [
+   {
+    "post": 520,
+    "marker": "new-zealand-election-result-overhang",
+    "html": "Update: <a href=\"https://nowbrief.news/news/politics/new-zealand-election-result-overhang/\">New Zealand's election result is still open as 399,000 special votes are counted</a>."
+   }
+  ]
  }
 ]
