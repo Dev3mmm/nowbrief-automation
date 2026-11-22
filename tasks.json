@@ -533,5 +533,60 @@
     "html": "Update: <a href=\"https://nowbrief.news/news/politics/new-zealand-election-result-overhang/\">New Zealand's election result is still open as 399,000 special votes are counted</a>."
    }
   ]
+ },
+ {
+  "when_published": 800,
+  "add_to": [
+   {
+    "post": 572,
+    "marker": "chainflip-hack-12-million-bounty",
+    "html": "Newer: <a href=\"https://nowbrief.news/crypto/defi/chainflip-hack-12-million-bounty/\">Chainflip says an attacker took about $12 million and offered a 10% bounty</a>."
+   },
+   {
+    "post": 209,
+    "marker": "chainflip-hack-12-million-bounty",
+    "html": "See also the <a href=\"https://nowbrief.news/crypto/defi/chainflip-hack-12-million-bounty/\">Chainflip hack</a>, where the protocol offered the attacker a bounty to return funds."
+   }
+  ]
+ },
+ {
+  "when_published": 803,
+  "add_to": [
+   {
+    "post": 693,
+    "marker": "kraken-cad-bitcoin-17k-trades-stand",
+    "html": "Related: <a href=\"https://nowbrief.news/crypto/kraken-cad-bitcoin-17k-trades-stand/\">Kraken CAD markets briefly priced bitcoin near $17,000, and Kraken said trades stand</a>."
+   },
+   {
+    "post": 569,
+    "marker": "kraken-cad-bitcoin-17k-trades-stand",
+    "html": "Also this week, <a href=\"https://nowbrief.news/crypto/kraken-cad-bitcoin-17k-trades-stand/\">bitcoin printed near $17,000 on Kraken's Canadian-dollar pairs</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 806,
+  "add_to": [
+   {
+    "post": 668,
+    "marker": "ncic-database-hack-fbi",
+    "html": "Another breach in the news: <a href=\"https://nowbrief.news/news/tech/ncic-database-hack-fbi/\">the FBI's NCIC database was hacked and the FBI has not said what was taken</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 809,
+  "add_to": [
+   {
+    "post": 691,
+    "marker": "san-francisco-king-tides-record-flood-risk",
+    "html": "Also this week, <a href=\"https://nowbrief.news/news/science/san-francisco-king-tides-record-flood-risk/\">San Francisco is bracing for record king tides</a>."
+   },
+   {
+    "post": 671,
+    "marker": "san-francisco-king-tides-record-flood-risk",
+    "html": "Related: <a href=\"https://nowbrief.news/news/science/san-francisco-king-tides-record-flood-risk/\">San Francisco king tides could reach record levels on Nov 24 and 25</a>."
+   }
+  ]
  }
 ]
