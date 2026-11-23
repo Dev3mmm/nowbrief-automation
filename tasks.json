@@ -588,5 +588,80 @@
     "html": "Related: <a href=\"https://nowbrief.news/news/science/san-francisco-king-tides-record-flood-risk/\">San Francisco king tides could reach record levels on Nov 24 and 25</a>."
    }
   ]
+ },
+ {
+  "when_published": 847,
+  "add_to": [
+   {
+    "post": 800,
+    "marker": "fusionist-ace-bridge-exploit",
+    "html": "A second bridge problem surfaced the same weekend: <a href=\"https://nowbrief.news/crypto/defi/fusionist-ace-bridge-exploit/\">Fusionist's ACE bridge was drained after an attacker minted unbacked tokens</a>."
+   },
+   {
+    "post": 665,
+    "marker": "fusionist-ace-bridge-exploit",
+    "html": "Elsewhere in crypto security, <a href=\"https://nowbrief.news/crypto/defi/fusionist-ace-bridge-exploit/\">the Fusionist ACE bridge exploit cost holders about $5.7 million in two stages</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 850,
+  "add_to": [
+   {
+    "post": 572,
+    "marker": "stablecoin-market-cap-2026-low",
+    "html": "For the wider supply picture, see <a href=\"https://nowbrief.news/crypto/stablecoin-market-cap-2026-low/\">why the stablecoin market cap fell to its lowest level of 2026</a>."
+   },
+   {
+    "post": 622,
+    "marker": "stablecoin-market-cap-2026-low",
+    "html": "<a href=\"https://nowbrief.news/crypto/stablecoin-market-cap-2026-low/\">Total stablecoin supply has dropped 9.6% from its May peak</a>, according to DefiLlama data."
+   }
+  ]
+ },
+ {
+  "when_published": 853,
+  "add_to": [
+   {
+    "post": 829,
+    "marker": "federal-contractors-trump-congress-order",
+    "html": "The incoming majority already faces a new obstacle: <a href=\"https://nowbrief.news/news/politics/federal-contractors-trump-congress-order/\">Trump ordered federal contractors to alert the White House before answering Congress</a>."
+   },
+   {
+    "post": 487,
+    "marker": "federal-contractors-trump-congress-order",
+    "html": "Related oversight fight: <a href=\"https://nowbrief.news/news/politics/federal-contractors-trump-congress-order/\">the new executive order on federal contractors and Congress</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 856,
+  "add_to": [
+   {
+    "post": 668,
+    "marker": "kepco-data-breach-1-52-million",
+    "html": "A larger breach hit South Korea this weekend, when <a href=\"https://nowbrief.news/news/tech/kepco-data-breach-1-52-million/\">KEPCO confirmed that data on 1.52 million people was exposed</a>."
+   },
+   {
+    "post": 806,
+    "marker": "kepco-data-breach-1-52-million",
+    "html": "Also see <a href=\"https://nowbrief.news/news/tech/kepco-data-breach-1-52-million/\">the KEPCO data breach in South Korea</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 859,
+  "add_to": [
+   {
+    "post": 397,
+    "marker": "bayelsa-boat-disaster-24-dead",
+    "html": "Another water tragedy this week: <a href=\"https://nowbrief.news/news/world/bayelsa-boat-disaster-24-dead/\">a boat carrying mourners capsized in Bayelsa, Nigeria, killing at least 24</a>."
+   },
+   {
+    "post": 162,
+    "marker": "bayelsa-boat-disaster-24-dead",
+    "html": "In Nigeria news, <a href=\"https://nowbrief.news/news/world/bayelsa-boat-disaster-24-dead/\">the Bayelsa boat disaster left at least 24 dead</a>."
+   }
+  ]
  }
 ]
