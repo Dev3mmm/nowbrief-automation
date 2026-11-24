@@ -663,5 +663,60 @@
     "html": "In Nigeria news, <a href=\"https://nowbrief.news/news/world/bayelsa-boat-disaster-24-dead/\">the Bayelsa boat disaster left at least 24 dead</a>."
    }
   ]
+ },
+ {
+  "when_published": 908,
+  "add_to": [
+   {
+    "post": 307,
+    "marker": "binance-hack-update-doj-usdc",
+    "html": "Update on the theft: the <a href=\"https://nowbrief.news/crypto/regulation/binance-hack-update-doj-usdc/\">US has now filed to forfeit about $1.17 billion in frozen USDC</a>."
+   },
+   {
+    "post": 572,
+    "marker": "binance-hack-update-doj-usdc",
+    "html": "Related North Korea story: <a href=\"https://nowbrief.news/crypto/regulation/binance-hack-update-doj-usdc/\">the DOJ moved against $1.17 billion in USDC from the Binance hack</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 911,
+  "add_to": [
+   {
+    "post": 278,
+    "marker": "bitcoin-etf-outflows-record-november",
+    "html": "Since then, <a href=\"https://nowbrief.news/crypto/bitcoin-etf-outflows-record-november/\">November has become the biggest outflow month on record for US spot bitcoin funds</a>."
+   },
+   {
+    "post": 693,
+    "marker": "bitcoin-etf-outflows-record-november",
+    "html": "Fund flows tell the same story: <a href=\"https://nowbrief.news/crypto/bitcoin-etf-outflows-record-november/\">$4.71 billion left US spot bitcoin ETFs in November</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 914,
+  "add_to": [
+   {
+    "post": 880,
+    "marker": "megaspeed-entity-list-alibaba-unit-nvidia-chips",
+    "html": "Same day, different filing: <a href=\"https://nowbrief.news/news/tech/megaspeed-entity-list-alibaba-unit-nvidia-chips/\">Commerce put Megaspeed and six related firms on the Entity List</a>."
+   },
+   {
+    "post": 693,
+    "marker": "megaspeed-entity-list-alibaba-unit-nvidia-chips",
+    "html": "On the chip side, <a href=\"https://nowbrief.news/news/tech/megaspeed-entity-list-alibaba-unit-nvidia-chips/\">the US blacklisted Nvidia partner Megaspeed over suspected diversion to China</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 917,
+  "add_to": [
+   {
+    "post": 249,
+    "marker": "ebola-outbreak-2026-ituri-fighting-who",
+    "html": "Latest from the field: <a href=\"https://nowbrief.news/news/world/ebola-outbreak-2026-ituri-fighting-who/\">fighting in Ituri trapped Ebola responders in a maternity ward for over 24 hours</a>."
+   }
+  ]
  }
 ]
