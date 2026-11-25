@@ -718,5 +718,65 @@
     "html": "Latest from the field: <a href=\"https://nowbrief.news/news/world/ebola-outbreak-2026-ituri-fighting-who/\">fighting in Ituri trapped Ebola responders in a maternity ward for over 24 hours</a>."
    }
   ]
+ },
+ {
+  "when_published": 971,
+  "add_to": [
+   {
+    "post": 619,
+    "marker": "franklin-crypto-index-etf-hype",
+    "html": "Update: <a href=\"https://nowbrief.news/crypto/altcoins/franklin-crypto-index-etf-hype/\">Franklin Templeton will add HYPE to its crypto index ETF on Dec 1</a>."
+   },
+   {
+    "post": 911,
+    "marker": "franklin-crypto-index-etf-hype",
+    "html": "Some funds are still adding tokens despite the outflows: <a href=\"https://nowbrief.news/crypto/altcoins/franklin-crypto-index-etf-hype/\">Franklin's EZPZ takes on Hyperliquid's HYPE</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 974,
+  "add_to": [
+   {
+    "post": 908,
+    "marker": "fincen-cybersecurity-incident-systems-offline",
+    "html": "Separately, <a href=\"https://nowbrief.news/crypto/regulation/fincen-cybersecurity-incident-systems-offline/\">FinCEN took systems offline after unauthorized access</a>, the bureau that receives crypto exchanges' suspicious activity reports."
+   },
+   {
+    "post": 665,
+    "marker": "fincen-cybersecurity-incident-systems-offline",
+    "html": "<strong>Compliance watch:</strong> <a href=\"https://nowbrief.news/crypto/regulation/fincen-cybersecurity-incident-systems-offline/\">FinCEN moved filing deadlines to Dec 30 after a cybersecurity incident</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 977,
+  "add_to": [
+   {
+    "post": 914,
+    "marker": "huawei-trial-verdict-guilty-iran-trade-secrets",
+    "html": "In court, <a href=\"https://nowbrief.news/news/tech/huawei-trial-verdict-guilty-iran-trade-secrets/\">a Brooklyn jury convicted Huawei on Iran sanctions and trade secret counts</a>."
+   },
+   {
+    "post": 831,
+    "marker": "huawei-trial-verdict-guilty-iran-trade-secrets",
+    "html": "Also on US-China tech: <a href=\"https://nowbrief.news/news/tech/huawei-trial-verdict-guilty-iran-trade-secrets/\">Huawei was convicted in Brooklyn on 10 of 12 counts</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 980,
+  "add_to": [
+   {
+    "post": 833,
+    "marker": "ras-tanura-refinery-houthi-attack-claim",
+    "html": "Latest: <a href=\"https://nowbrief.news/news/world/ras-tanura-refinery-houthi-attack-claim/\">the Houthis claim a strike on the Ras Tanura refinery</a>, which the coalition says it defended with four drone interceptions."
+   },
+   {
+    "post": 695,
+    "marker": "ras-tanura-refinery-houthi-attack-claim",
+    "html": "The conflict has also reached Saudi Arabia, where <a href=\"https://nowbrief.news/news/world/ras-tanura-refinery-houthi-attack-claim/\">the Houthis say they hit Ras Tanura</a>."
+   }
+  ]
  }
 ]
