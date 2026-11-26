@@ -778,5 +778,60 @@
     "html": "The conflict has also reached Saudi Arabia, where <a href=\"https://nowbrief.news/news/world/ras-tanura-refinery-houthi-attack-claim/\">the Houthis say they hit Ras Tanura</a>."
    }
   ]
+ },
+ {
+  "when_published": 1011,
+  "add_to": [
+   {
+    "post": 908,
+    "marker": "regulation-crypto-assets-warren",
+    "html": "Regulators and lawmakers: <a href=\"https://nowbrief.news/crypto/regulation/regulation-crypto-assets-warren/\">Warren and Senate Democrats urge the SEC to rescind Regulation Crypto Assets</a>."
+   },
+   {
+    "post": 974,
+    "marker": "regulation-crypto-assets-warren",
+    "html": "Also on crypto oversight: <a href=\"https://nowbrief.news/crypto/regulation/regulation-crypto-assets-warren/\">Senate Democrats ask the SEC to drop its Regulation Crypto Assets proposal</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 1014,
+  "add_to": [
+   {
+    "post": 911,
+    "marker": "strategic-bitcoin-reserve-bill-house-calendar",
+    "html": "Policy update: <a href=\"https://nowbrief.news/crypto/strategic-bitcoin-reserve-bill-house-calendar/\">the Strategic Bitcoin Reserve bill reached the House calendar with a 20-year lock</a>."
+   },
+   {
+    "post": 850,
+    "marker": "strategic-bitcoin-reserve-bill-house-calendar",
+    "html": "Related: <a href=\"https://nowbrief.news/crypto/strategic-bitcoin-reserve-bill-house-calendar/\">the bitcoin reserve bill now waits for a House floor vote</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 1017,
+  "add_to": [
+   {
+    "post": 943,
+    "marker": "q3-gdp-second-estimate-4-3-percent",
+    "html": "Economy check: <a href=\"https://nowbrief.news/finance/economy/q3-gdp-second-estimate-4-3-percent/\">Q3 GDP was revised up to 4.3%</a>."
+   },
+   {
+    "post": 963,
+    "marker": "q3-gdp-second-estimate-4-3-percent",
+    "html": "Also this week: <a href=\"https://nowbrief.news/finance/economy/q3-gdp-second-estimate-4-3-percent/\">the BEA revised Q3 GDP up to 4.3%, with exports falling</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 1020,
+  "add_to": [
+   {
+    "post": 809,
+    "marker": "thanksgiving-storm-east-coast-flights-parade",
+    "html": "Update: <a href=\"https://nowbrief.news/news/world/thanksgiving-storm-east-coast-flights-parade/\">the Thanksgiving storm brought flooding, flight cancellations and a parade delay to the East Coast</a>."
+   }
+  ]
  }
 ]
