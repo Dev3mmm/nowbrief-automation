@@ -833,5 +833,65 @@
     "html": "Update: <a href=\"https://nowbrief.news/news/world/thanksgiving-storm-east-coast-flights-parade/\">the Thanksgiving storm brought flooding, flight cancellations and a parade delay to the East Coast</a>."
    }
   ]
+ },
+ {
+  "when_published": 1088,
+  "add_to": [
+   {
+    "post": 908,
+    "marker": "binance-withdrawals-reopen-after-hack",
+    "html": "Update: <a href=\"https://nowbrief.news/crypto/binance-withdrawals-reopen-after-hack/\">Binance says withdrawals are open again after the hack</a>."
+   },
+   {
+    "post": 971,
+    "marker": "binance-withdrawals-reopen-after-hack",
+    "html": "Also on exchanges: <a href=\"https://nowbrief.news/crypto/binance-withdrawals-reopen-after-hack/\">Binance finished restoring withdrawals on Nov 26</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 1091,
+  "add_to": [
+   {
+    "post": 850,
+    "marker": "stablecoin-supply-17-billion-monthly-drop",
+    "html": "Related: <a href=\"https://nowbrief.news/crypto/defi/stablecoin-supply-17-billion-monthly-drop/\">stablecoin supply fell $17.2 billion in a month, the biggest drop since Terra</a>."
+   },
+   {
+    "post": 1014,
+    "marker": "stablecoin-supply-17-billion-monthly-drop",
+    "html": "Market backdrop: <a href=\"https://nowbrief.news/crypto/defi/stablecoin-supply-17-billion-monthly-drop/\">stablecoin supply is draining at the fastest pace since Terra</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 1094,
+  "add_to": [
+   {
+    "post": 1017,
+    "marker": "next-ecb-president-hernandez-de-cos",
+    "html": "Also in economy news: <a href=\"https://nowbrief.news/finance/economy/next-ecb-president-hernandez-de-cos/\">EU leaders put forward Pablo Hernández de Cos as the next ECB president</a>."
+   },
+   {
+    "post": 833,
+    "marker": "next-ecb-president-hernandez-de-cos",
+    "html": "Related: <a href=\"https://nowbrief.news/finance/economy/next-ecb-president-hernandez-de-cos/\">who will replace Lagarde at the ECB as inflation hits 4 percent</a>."
+   }
+  ]
+ },
+ {
+  "when_published": 1097,
+  "add_to": [
+   {
+    "post": 980,
+    "marker": "kuwait-drone-attack-two-italians-killed",
+    "html": "Update: <a href=\"https://nowbrief.news/news/world/kuwait-drone-attack-two-italians-killed/\">a Kuwait drone attack killed two Italian technicians on Nov 26</a>."
+   },
+   {
+    "post": 833,
+    "marker": "kuwait-drone-attack-two-italians-killed",
+    "html": "Related: <a href=\"https://nowbrief.news/news/world/kuwait-drone-attack-two-italians-killed/\">two Italian technicians died in a drone attack on a Kuwait air-defense site</a>."
+   }
+  ]
  }
 ]
